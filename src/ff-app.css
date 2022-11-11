@@ -1,17 +1,21 @@
 #f1h4{
   color: white;
-  text-shadow: 0px 0px 10px rgb(57, 24, 246);
+  text-shadow: 0px 0px 15px rgb(57, 24, 246);
   font-size: 45px;
   padding-top: 7%;
   padding-left: 5%;
+  font-family: 'Ceviche One', cursive;
+  font-weight: 500;
+  font-size: 70px;
 }
 
 #f1p_text{
   color: white;
   background-color: yellowgreen;
   
-  text-shadow: 0px 0px 10px black;
-  font-size: 30px;
+  text-shadow: 0px 0px 10px rgb(57, 24, 246);
+  font-size: 40px;
+  font-family: 'Ceviche One', cursive;
   padding: 5%;
   margin: 10%;
   border: 5px solid rgb(57, 24, 246);
@@ -30,18 +34,22 @@
 
 #f2h4{
   color: white;
-  text-shadow: 0px 0px 10px rgb(210, 0, 233);
+  text-shadow: 0px 0px 15px rgb(210, 0, 233);
   font-size: 45px;
   padding-top: 7%;
   padding-left: 5%;
+  font-family: 'Ceviche One', cursive;
+  font-weight: 500;
+  font-size: 70px;
 }
 
 #f2p_text{
   color: white;
   background-color: yellowgreen;
   
-  text-shadow: 0px 0px 10px black;
-  font-size: 30px;
+  text-shadow: 0px 0px 10px rgb(210, 0, 233);
+  font-size: 40px;
+  font-family: 'Ceviche One', cursive;
   padding: 5%;
   margin: 10%;
   border: 5px solid rgb(210, 0, 233);
@@ -59,10 +67,13 @@
 
 #f3h4{
   color: white;
-  text-shadow: 0px 0px 10px rgb(214, 4, 4);
+  text-shadow: 0px 0px 15px rgb(214, 4, 4);
   font-size: 45px;
   padding-top: 7%;
   padding-left: 5%;
+  font-family: 'Ceviche One', cursive;
+  font-weight: 500;
+  font-size: 70px;
 }
 
 #f3p_text{
@@ -70,7 +81,8 @@
   background-color: yellowgreen;
   
   text-shadow: 0px 0px 10px rgb(214, 4, 4);
-  font-size: 30px;
+  font-size: 40px;
+  font-family: 'Ceviche One', cursive;
   padding: 5%;
   margin: 10%;
   border: 5px solid rgb(214, 4, 4);
@@ -93,18 +105,21 @@
 
 #headerH3{
   color: white;
-  text-shadow: 0px 0px 10px rgb(226, 124, 0);
-  font-size: 50px;
+  text-shadow: 0px 0px 15px rgb(226, 124, 0);
+  font-size: 70px;
   padding-top: 3%;
   padding-left: 5%;
+  font-family: 'Ceviche One', cursive;
+  font-weight: 500;
 }
 
 #homeMainContainer{
   color: white;
   background-color: yellowgreen;
   
-  text-shadow: 0px 0px 10px rgb(185, 102, 1);
-  font-size: 30px;
+  text-shadow: 0px 0px 15px rgb(185, 102, 1);
+  font-size: 40px;
+  font-family: 'Ceviche One', cursive;
   padding: 5%;
   margin: 7%;
   border: 8px solid rgb(226, 124, 0);
