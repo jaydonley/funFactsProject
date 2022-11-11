@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const FF_Home = (props) => {
 
   return (
-    <body id='ff-home'>
+    <div id='FF_Home'>
                 <h3 className='center' id='headerH3'>So you've come seeking answers to the mysterious... <br/> Teenage Munant Ninja Turtles</h3>
 
     
@@ -35,7 +35,7 @@ const FF_Home = (props) => {
         </div>
     
     
-    </body>
+    </div>
   )
 }
 

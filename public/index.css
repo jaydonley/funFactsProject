@@ -1,5 +1,8 @@
-.homeBody{
+Body{
     background-image: url(https://wallpapercave.com/wp/VgqoLiY.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
 }
