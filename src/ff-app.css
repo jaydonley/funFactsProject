@@ -24,7 +24,8 @@
 
 
 #f1returnHomeButton{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(57, 24, 246);
   color: rgb(57, 24, 246);
   border-radius: 5px;
@@ -57,7 +58,8 @@
 }
 
 #f2returnHomeButton{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(210, 0, 233);
   color: rgb(210, 0, 233);
   border-radius: 5px;
@@ -91,7 +93,8 @@
 }
 
 #f3returnHomeButton{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(214, 4, 4);
   color: rgb(214, 4, 4);
   border-radius: 5px;
@@ -133,7 +136,8 @@ text-align: center;
 }
 
 #buttonOne{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(57, 24, 246);
   color: rgb(57, 24, 246);
   border-radius: 5px;
@@ -142,7 +146,8 @@ text-align: center;
 }
 
 #buttonTwo{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(210, 0, 233);
   color: rgb(210, 0, 233);
   border-radius: 5px;
@@ -151,7 +156,8 @@ text-align: center;
 }
 
 #buttonThree{
-  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  font-size: 35px;
   border: 3px solid rgb(214, 4, 4);
   color: rgb(214, 4, 4);
   border-radius: 5px;
