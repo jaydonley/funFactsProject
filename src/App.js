@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import './ff-app.css';
+import React, { Component } from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import Fact_One from "./Components/Fact_One";
+import Fact_Two from "./Components/Fact_Two";
+import Fact_Three from "./Components/Fact_Three";
+import FF_Home from "./Components/FF_Home";
+import {BrowserRouter, Route }from "react-router-dom";
 
-export default App;
+class App extends Component {
+    render() {
+      return (
+        <BrowserRouter>
+        <div className='App'>
+          {/* <Navbar /> */}
+          <Route exact path= '/' component={FF_Home} />
+          <Route path= '/Fact_One' component={Fact_One} />
+          <Route path= '/Fact_Two' component={Fact_Two} />
+          <Route path= '/Fact_Three' component={Fact_Three} />
+        </div>
+        </BrowserRouter>
+      )
+    }
+  }
+  
+  export default App;
